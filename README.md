@@ -3,6 +3,8 @@ My second Swift 5 iOS App. Conveniently create notecards and sticky notes and ma
 
 iOS version: 13.2 and up (I think. I haven't really tested outdated versions)
 
+<img width="211" alt="titlescreen" src="https://user-images.githubusercontent.com/54069717/71475766-a806cf00-27af-11ea-9aff-4b0500bf2951.png">
+
 ## Description
 I need to sort out my life right now. I have so many goals for 2020, things I have to memorize, reminders for the week... If only I could pin them on a single display and carry it around wherever I go and be able to access them conveniently.
 Introducing... StikyNotez!!!
@@ -22,6 +24,9 @@ Drag and Drop Trash Button
 
 Delete All
 * You can delete all the cards at once by pressing the delete all button, which navigates you to a confirmation page before executing.
+
+<img width="404" alt="photo1" src="https://user-images.githubusercontent.com/54069717/71475768-ab01bf80-27af-11ea-9ee0-2596d734412f.png">
+<img width="411" alt="photo2" src="https://user-images.githubusercontent.com/54069717/71475773-ad641980-27af-11ea-8a5d-85aef9f07de4.png">
 
 ## Comments
 This project took me a little less than 2 days of almost non-stop coding to complete! I had to get a lot of help and learn new things along the way, such as implementing the drag and drop feature for deleting the cards.
