@@ -8,19 +8,19 @@ I need to sort out my life right now. I have so many goals for 2020, things I ha
 Introducing... StikyNotez!!!
 
 ## Features
-- Really Nice User Interface
+Really Nice User Interface
 Massive improvements in the UI from my first Swift app, GoalsDaily. The load screen and background look smooth, the generated text boxes look like actual sticky notes and notecards...
 
-- Notecards and Sticky Notes
+Notecards and Sticky Notes
 * Create them using left and right bottom buttons. The square logo creates sticky notes, the rectangle logo creates notecards!
 * You can type text into them with however many lines you want!
 * If you touch within one of the cards and drag them around, they will move!
 * It stays within the screen boundaries without leaving it!
 
-- Drag and Drop Trash Button
+Drag and Drop Trash Button
 * Card becomes slightly transparent when you drag and hover it over the trash button and disappears by fading out when you release.
 
-- Delete All
+Delete All
 * You can delete all the cards at once by pressing the delete all button, which navigates you to a confirmation page before executing.
 
 ## Comments
