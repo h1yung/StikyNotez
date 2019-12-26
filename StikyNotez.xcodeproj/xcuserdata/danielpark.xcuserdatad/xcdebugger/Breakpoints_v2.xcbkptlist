@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "04416E2F-08B6-44FD-AB40-0CAA809A34A1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19B91529-EA12-46FA-931F-3A52C834B2FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StikyNotez/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "19B91529-EA12-46FA-931F-3A52C834B2FA - 1754172494fd31cc"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StikyNotez.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; StikyNotez.ViewController"
+                  moduleName = "StikyNotez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpark/Desktop/CS_Projects/StikyNotez/StikyNotez/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "19B91529-EA12-46FA-931F-3A52C834B2FA - 92cdd5c2d161943"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StikyNotez.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; StikyNotez.ViewController"
+                  moduleName = "StikyNotez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpark/Desktop/CS_Projects/StikyNotez/StikyNotez/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  uuid = "19B91529-EA12-46FA-931F-3A52C834B2FA - 92e2ce21365707bb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StikyNotez.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;StikyNotez.ViewController&gt;"
+                  moduleName = "StikyNotez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpark/Desktop/CS_Projects/StikyNotez/StikyNotez/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "19B91529-EA12-46FA-931F-3A52C834B2FA - 3ea03f6dc38981d0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StikyNotez.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;StikyNotez.ViewController&gt;"
+                  moduleName = "StikyNotez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpark/Desktop/CS_Projects/StikyNotez/StikyNotez/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "19B91529-EA12-46FA-931F-3A52C834B2FA - 52541aed69190841"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StikyNotez.ViewController.__deallocating_deinit"
+                  moduleName = "StikyNotez"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danielpark/Desktop/CS_Projects/StikyNotez/StikyNotez/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FB14E66-2AB8-4AED-8A76-74EEB7273F1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StikyNotez/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "handlePanGesture(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E25B1CEB-A786-4B0D-8A58-46CE784A9980"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StikyNotez/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "handlePanGesture(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DAEC89A-C7F7-43F2-8B6C-1AD609E0376C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StikyNotez/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "handlePanGesture(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
