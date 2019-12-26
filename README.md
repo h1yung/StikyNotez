@@ -1,3 +1,4 @@
+![download](https://user-images.githubusercontent.com/54069717/71476026-fcf71500-27b0-11ea-8027-5eb0df3fe527.png)
 # StikyNotez
 My second Swift 5 iOS App. Conveniently create notecards and sticky notes and manage your notes and reminders all in one view! Comes with a really nice user interface
 
