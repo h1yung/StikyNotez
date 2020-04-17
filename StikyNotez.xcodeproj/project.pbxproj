@@ -15,6 +15,10 @@
 		F614EB2823B3724B00D1FDD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F614EB2623B3724B00D1FDD2 /* LaunchScreen.storyboard */; };
 		F614EB3323B3724B00D1FDD2 /* StikyNotezTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F614EB3223B3724B00D1FDD2 /* StikyNotezTests.swift */; };
 		F614EB3E23B3724C00D1FDD2 /* StikyNotezUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F614EB3D23B3724C00D1FDD2 /* StikyNotezUITests.swift */; };
+		F6767526244916D800BC29CE /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F6767524244916D800BC29CE /* Model.xcdatamodeld */; };
+		F676752924491BAF00BC29CE /* Note+CoreDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F676752724491BAF00BC29CE /* Note+CoreDataClass.swift */; };
+		F676752A24491BAF00BC29CE /* Note+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = F676752824491BAF00BC29CE /* Note+CoreDataProperties.swift */; };
+		F676756B2449209000BC29CE /* PersistenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F676756A2449209000BC29CE /* PersistenceManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		F614EB3923B3724C00D1FDD2 /* StikyNotezUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StikyNotezUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F614EB3D23B3724C00D1FDD2 /* StikyNotezUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StikyNotezUITests.swift; sourceTree = "<group>"; };
 		F614EB3F23B3724C00D1FDD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6767525244916D800BC29CE /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		F676752724491BAF00BC29CE /* Note+CoreDataClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Note+CoreDataClass.swift"; sourceTree = "<group>"; };
+		F676752824491BAF00BC29CE /* Note+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Note+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		F676756A2449209000BC29CE /* PersistenceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistenceManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +87,8 @@
 		F614EB0F23B3724A00D1FDD2 = {
 			isa = PBXGroup;
 			children = (
+				F676752724491BAF00BC29CE /* Note+CoreDataClass.swift */,
+				F676752824491BAF00BC29CE /* Note+CoreDataProperties.swift */,
 				F614EB1A23B3724A00D1FDD2 /* StikyNotez */,
 				F614EB3123B3724B00D1FDD2 /* StikyNotezTests */,
 				F614EB3C23B3724C00D1FDD2 /* StikyNotezUITests */,
@@ -100,12 +110,14 @@
 			isa = PBXGroup;
 			children = (
 				F614EB1B23B3724A00D1FDD2 /* AppDelegate.swift */,
+				F676756A2449209000BC29CE /* PersistenceManager.swift */,
 				F614EB1D23B3724A00D1FDD2 /* SceneDelegate.swift */,
 				F614EB1F23B3724A00D1FDD2 /* ViewController.swift */,
 				F614EB2123B3724A00D1FDD2 /* Main.storyboard */,
 				F614EB2423B3724B00D1FDD2 /* Assets.xcassets */,
 				F614EB2623B3724B00D1FDD2 /* LaunchScreen.storyboard */,
 				F614EB2923B3724B00D1FDD2 /* Info.plist */,
+				F6767524244916D800BC29CE /* Model.xcdatamodeld */,
 			);
 			path = StikyNotez;
 			sourceTree = "<group>";
@@ -260,8 +272,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				F614EB2023B3724A00D1FDD2 /* ViewController.swift in Sources */,
+				F676756B2449209000BC29CE /* PersistenceManager.swift in Sources */,
 				F614EB1C23B3724A00D1FDD2 /* AppDelegate.swift in Sources */,
+				F676752924491BAF00BC29CE /* Note+CoreDataClass.swift in Sources */,
 				F614EB1E23B3724A00D1FDD2 /* SceneDelegate.swift in Sources */,
+				F6767526244916D800BC29CE /* Model.xcdatamodeld in Sources */,
+				F676752A24491BAF00BC29CE /* Note+CoreDataProperties.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -590,6 +606,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F6767524244916D800BC29CE /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F6767525244916D800BC29CE /* Model.xcdatamodel */,
+			);
+			currentVersion = F6767525244916D800BC29CE /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = F614EB1023B3724A00D1FDD2 /* Project object */;
 }

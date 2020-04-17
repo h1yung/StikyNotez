@@ -15,9 +15,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="wood" translatesAutoresizingMaskIntoConstraints="NO" id="Lpw-6q-SrH">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                            </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="name-1" translatesAutoresizingMaskIntoConstraints="NO" id="HaY-83-Vz9">
                                 <rect key="frame" x="87" y="622" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -33,13 +30,16 @@
                                 <rect key="frame" x="20" y="0.0" width="374" height="439"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="wood" translatesAutoresizingMaskIntoConstraints="NO" id="Lpw-6q-SrH">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="901"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
                             <constraint firstItem="Lpw-6q-SrH" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="OwS-Sr-gLD"/>
                             <constraint firstItem="Lpw-6q-SrH" firstAttribute="width" secondItem="Ze5-6b-2t3" secondAttribute="width" id="R5H-L5-W06"/>
                             <constraint firstItem="Lpw-6q-SrH" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="1.00558" id="YT4-zV-zuV"/>
-                            <constraint firstItem="Lpw-6q-SrH" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="iSC-eY-O34"/>
+                            <constraint firstItem="Lpw-6q-SrH" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" constant="-2.5" id="iSC-eY-O34"/>
                             <constraint firstItem="FWc-BB-du1" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="mtt-mV-36i"/>
                             <constraint firstItem="FWc-BB-du1" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="qyM-hx-PBY"/>
                         </constraints>
