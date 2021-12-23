@@ -105,3 +105,4 @@ Project Link: [https://github.com/h1yung/StikyNotez](https://github.com/h1yung/S
 [issues-shield]: https://img.shields.io/github/issues/h1yung/StikyNotez.svg?style=for-the-badge
 [issues-url]: https://github.com/h1yung/StikyNotez/issues
 [linkedin-url]: https://www.linkedin.com/in/h1yung
+[linkedin-shield]: https://img.shields.io/github/linkedin/h1yung/StikyNotez.svg?style=for-the-badge
