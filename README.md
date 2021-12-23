@@ -104,5 +104,5 @@ Project Link: [https://github.com/h1yung/StikyNotez](https://github.com/h1yung/S
 [stars-url]: https://github.com/h1yung/StikyNotez/stargazers
 [issues-shield]: https://img.shields.io/github/issues/h1yung/StikyNotez.svg?style=for-the-badge
 [issues-url]: https://github.com/h1yung/StikyNotez/issues
-[linkedin-url]: https://www.linkedin.com/in/h1yung
+[linkedin-url]: https://www.linkedin.com/in/fifadaniel
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
