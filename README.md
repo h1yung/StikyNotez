@@ -2,24 +2,19 @@
 [![download](https://user-images.githubusercontent.com/54069717/71476026-fcf71500-27b0-11ea-8027-5eb0df3fe527.png)](https://www.youtube.com/watch?v=nt5bddWEGeM)
 
 # StikyNotez
-My second Swift 5 iOS App. Conveniently create notecards and sticky notes and manage your notes and reminders all in one view! Comes with a really nice user interface
+My second Swift 5 iOS App. Conveniently create notecards and sticky notes and manage your notes and reminders all in one view.
 
-iOS version: 13.2 and up (I think. I haven't really tested outdated versions)
+Compatibility: Tested for iOS version 13.2 and up.
 
 <img width="211" alt="titlescreen" src="https://user-images.githubusercontent.com/54069717/71475766-a806cf00-27af-11ea-9aff-4b0500bf2951.png">
 
 ## Description
-StikyNotez is inspired by post-it notes found on bulletin boards / desks. Carry a board of sticky notes / note cards in the palm of you hands wherever you go.
+StikyNotez is inspired by post-it notes found on bulletin boards / desks. This particular UX design adds extra convenience for users who would like all their notes to be found on one screen.
 
-## Features
-Clean GUI
-Massive improvements in the UI from my first Swift app, GoalsDaily. The load screen and background look smooth, the generated text boxes look like actual sticky notes and notecards...
-
+## Usage
 Notecards and Sticky Notes
 * Create them using left and right bottom buttons. The square logo creates sticky notes, the rectangle logo creates notecards.
-* You can type text into them with however many lines you want.
-* If you touch within one of the cards and drag them around, they will move.
-* It stays within the screen boundaries without leaving it.
+* Cards are their own objects that you can move around and assign text attributes to (unlimited lines).
 
 Drag and Drop Trash Button
 * Card becomes slightly transparent when you drag and hover it over the trash button and disappears by fading out when you release.
